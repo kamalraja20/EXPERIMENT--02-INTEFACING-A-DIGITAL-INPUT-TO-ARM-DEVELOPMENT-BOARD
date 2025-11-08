@@ -162,10 +162,8 @@ void assert_failed(uint8_t *file, uint32_t line)
 
 
 ## Output  :
-![WhatsApp Image 2025-09-09 at 09 53 07_b04fc7c0](https://github.com/user-attachments/assets/8d176168-a63d-4c9c-b070-8ecd1c8354f6)
+<img width="623" height="648" alt="Screenshot 2025-11-04 194312" src="https://github.com/user-attachments/assets/3d8d1769-f590-417e-b3a5-99ce92aa5ab9" />
 
-
-![WhatsApp Image 2025-09-09 at 09 53 07_fd7c88ea](https://github.com/user-attachments/assets/90a3edc0-9b4f-43c8-bdb5-593d7c5ad6c7)
 
 ## layout of the circuit 
 <img width="1247" height="880" alt="image" src="https://github.com/user-attachments/assets/f446e702-fe33-4765-95b6-c2b54105f6e4" />
